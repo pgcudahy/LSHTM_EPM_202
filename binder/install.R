@@ -1,2 +1,9 @@
-install.packages(c("tidyverse", "haven", "survival", "biostat3", "epiDisplay", "gmodels", "epiR", "epitools")
+install.packages("tidyverse")
+install.packages("haven")
+install.packages("survival")
+install.packages("biostat3")
+install.packages("epiDisplay")
+install.packages("gmodels")
+install.packages("epiR")
+install.packages("epitools")
 
