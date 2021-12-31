@@ -1,3 +1,0 @@
-[filter "jupyternotebook"]
-	jupyter nbconvert --to notebook --ClearOutputPreprocessor.enabled=True --inplace %f
-	required
