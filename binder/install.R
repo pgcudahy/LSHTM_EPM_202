@@ -6,4 +6,3 @@ install.packages("epiDisplay")
 install.packages("gmodels")
 install.packages("epiR")
 install.packages("epitools")
-
