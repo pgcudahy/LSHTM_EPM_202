@@ -1,4 +1,4 @@
-# LSTHM_EPM_202
+# LSHTM_EPM_202
 London School of Hygiene & Tropical Medicine: Statistical methods in epidemiology (EPM 202) workbook exercises in R
 
 Notebooks can be run interactively on [Binder](https://mybinder.org/v2/gh/pgcudahy/LSTHM_EPM_202/HEAD)
